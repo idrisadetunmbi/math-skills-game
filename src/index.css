@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 180px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 2.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+button:focus {
+  background-color: white
+}
+
+.how-to-play {
+  cursor: pointer;
+  display: block;
+  border: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.how-to-play u {
+  text-align: center;
+  display: block;
+  background-color: transparent;
+  display: block;
+  border: none;
+}
