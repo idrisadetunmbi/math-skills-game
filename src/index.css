@@ -42,3 +42,10 @@ button:focus {
   display: block;
   border: none;
 }
+
+.how-to-play-list>li {
+  list-style-type: decimal !important;
+  text-align: left;
+}
+
+
