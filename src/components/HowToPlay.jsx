@@ -15,8 +15,8 @@ export default () => (
           <li><p>Click the check button to confirm the answer</p></li>
           <li><p>The equal button changes to red if the equality is wrong</p></li>
           <li><p>You can use the orange button (5 times) to randomise the stars</p></li>
-          <li><p>If there are numbers left after randomizing the stars 5 times, you have lost the game</p></li>
-          <li><p>If you are able to choose all the numbers before using exhausting the randomization, you win the game</p></li>
+          <li><p>If there are numbers left after randomizing the stars 5 times, you lose the game</p></li>
+          <li><p>If you are able to choose all the numbers before exhausting the chances to randomise the stars, you win the game</p></li>
         </ul>
       </div>
     </div>
