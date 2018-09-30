@@ -32,7 +32,7 @@ npm start
 # build with the following command
 npm run build
 
-# the build folder can be deployed on any static web hosting platform (e.g. netlify)
+# the build folder can be deployed to any static web hosting platform (e.g. netlify)
 ```
 
 
