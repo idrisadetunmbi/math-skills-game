@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
 
-const Star = () => (
+export const Star = () => (
   <i className="small material-icons">star</i>
 );
 
