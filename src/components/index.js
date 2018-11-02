@@ -5,3 +5,4 @@ export { default as Numbers } from './Numbers';
 export { default as ResetStarsBtn } from './ResetStarsBtn';
 export { default as DoneStatus } from './DoneStatus';
 export { default as HowToPlay } from './HowToPlay';
+export { Star } from './Stars';
